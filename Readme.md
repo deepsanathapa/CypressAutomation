@@ -43,7 +43,7 @@ Rename the env.example to env and update accordingly.
 
 ## Note: Read below points carefully
 
-1. Before running the test check whether the URL is running or not on ypur device.
+1. Make sure the URL is open on your device before starting the test.
 
 2. Change the env file according to env.example file template with your credentials.
 
